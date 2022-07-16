@@ -1,0 +1,10 @@
+gTTs == 2.2.4
+playsound == 1.2.2
+joblib == 1.1.0
+Pillow == 9.1.0
+PyAudio == 0.2.11
+pyttsx3 == 2.90
+regex == 2022.7.9
+tqdm == 4.64.0
+speech-recognition-fork == 3.8.1.2021.6.14
+pip-chill == 1.0.1
